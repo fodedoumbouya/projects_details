@@ -21,9 +21,14 @@ Les différentes technologies que j'ai utilisé pour réaliser ce projet sont :
 
 Voici quelques images de l'application :
 
-<!-- [IMAGES] -->
-xsalkx
-![Alt text](images/p1_1.png?raw=true "Title")
+![Alt text](images/p1_1.png?raw=true "Page d'accueil")
+![Alt text](images/p1_2.png?raw=true "Maps")
+![Alt text](images/p1_3.png?raw=true "Site web")
+![Alt text](images/p1_4.png?raw=true "Images ")
+![Alt text](images/p1_5.png?raw=true "Profile ")
+![Alt text](images/p1_6.png?raw=true "Services")
+
+
 
 Cette application a remporté un prix lors du concours **Nouvelle technologie** dans mon université.
 
