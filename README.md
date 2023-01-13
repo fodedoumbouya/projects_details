@@ -22,6 +22,7 @@ Les différentes technologies que j'ai utilisé pour réaliser ce projet sont :
 Voici quelques images de l'application :
 
 <!-- [IMAGES] -->
+xsalkx
 ![Alt text](images/p1_1.png?raw=true "Title")
 
 Cette application a remporté un prix lors du concours **Nouvelle technologie** dans mon université.
