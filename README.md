@@ -36,7 +36,6 @@ Cette application a remporté un prix lors du concours **Nouvelle technologie** 
 ![Alt text](images/d.png?raw=true "Award")
 
 
-
 # 
 
 
@@ -56,6 +55,9 @@ Voici quelques images de l'application :
 ![Alt text](images/p2_7.png?raw=true "")
 
 
+# 
+
+
 # **Projet Personnel 4 :**
  J'ai créé une application de chat similaire à **WhatsApp**, mais avec la possibilité d'envoyer de l'argent ou de payer un client. Je suis encore en train de la développer en utilisant les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker**.
 Voici quelques images de l'application :
@@ -70,6 +72,9 @@ Voici quelques images de l'application :
 ![Alt text](images/p3_8.png?raw=true "")
 
 
+
+# 
+
 # **Projet Freelance :** 
 Un client m'a demandé de créer une application de discussion avec des fonctionnalités spécifiques telles que la gestion des niveaux de privilège des comptes. J'ai utilisé les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker** pour réaliser ce projet.
 
@@ -80,6 +85,9 @@ Voici quelques images de l'application :
 ![Alt text](images/p4_3.png?raw=true "")
 ![Alt text](images/p4_4.png?raw=true "")
 ![Alt text](images/p4_5.png?raw=true " ")
+
+
+# 
 
 # **Projet Professionnel [Stage]:**
  En tant que programmeur Front-End chez **Star Culture** !*[Donne un peu de détail sur l'entreprise, exemple : Une entreprise chinoise basée à Hong-Kong spécialisée dans la conception et la création d'application mobile]*, j'ai utilisé la technologie **Flutter** pour créer des designs pour des applications mobiles. J'ai participé à plusieurs projets de conception, travaillant en étroite collaboration avec les designers de l'entreprise. L'un des projets les plus importants sur lesquels j'ai travaillé était la création d'une application nécessitant de nombreuses animations et manipulations d'images 3D. J'ai également contribué à la création d'une bibliothèque de composants Flutter réutilisable pour les projets futurs, ce qui a permis de gagner du temps et de réduire le temps de production. Enfin, j'ai également participé à des activités de formation pour les autres membres de l'équipe, notamment en donnant des cours sur l'utilisation de Flutter pour la création de designs.
