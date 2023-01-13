@@ -1,7 +1,7 @@
 Ce document récapitule les détails de mes différents projets personnels ainsi que professionnels.
 Au cours des dernières années, j'ai travaillé sur 4 projets personnels, différents projets professionnels lors de mon stage en Chine, ainsi qu'un projet en tant que Freelance.
 
-**Projet Personnel 1 :** Vivant en Chine lors de la dernière pandémie, j'ai réalisé un jeu de quiz *from scratch* sur la **COVID-19**. !*[Tu dois expliquer à quoi consistait le jeu de quiz]*
+**Projet Personnel 1 :** Vivant en Chine lors de la dernière pandémie, j'ai réalisé un jeu de quiz *from scratch* sur la **COVID-19**.Qui était une application qui posait une question et donnait des réponses à utilisateur de faire le choix et il avait plusieurs étapes et de niveau.
 Les différentes technologies que j'ai utilisé pour le réaliser sont "Dart & Flutter".
 
 
@@ -21,7 +21,8 @@ Les différentes technologies que j'ai utilisé pour réaliser ce projet sont :
 
 Voici quelques images de l'application :
 
-[IMAGES]
+<!-- [IMAGES] -->
+![Alt text](images/p1_1.png?raw=true "Title")
 
 Cette application a remporté un prix lors du concours **Nouvelle technologie** dans mon université.
 
