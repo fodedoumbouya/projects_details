@@ -31,8 +31,8 @@ Voici quelques images de l'application :
 
 
 Cette application a remporté un prix lors du concours **Nouvelle technologie** dans mon université.
+![Alt text](images/d.png?raw=true "Award")
 
-[IMAGES]
 
 **Projet Personnel 3 :** J'ai créé une application de e-commerce pour des achats en ligne en utilisant les technologies **Dart & Flutter**, **Golang**, **MySQL** et **Docker**.
 Le choix de **Dart & Flutter** m'a permis de créer des applications multi-plateformes.
@@ -40,22 +40,53 @@ Ce projet m'a également permis de mieux préparer en amont la conception de l'a
 
 Voici quelques images de l'application :
 
-[IMAGES]
+![Alt text](images/p2_1.png?raw=true "")
+![Alt text](images/p2_2.png?raw=true "")
+![Alt text](images/p2_3.png?raw=true "")
+![Alt text](images/p2_4.png?raw=true "")
+![Alt text](images/p2_5.png?raw=true " ")
+![Alt text](images/p2_6.png?raw=true "")
+![Alt text](images/p2_7.png?raw=true "")
+
 
 **Projet Personnel 4 :** J'ai créé une application de chat similaire à **WhatsApp**, mais avec la possibilité d'envoyer de l'argent ou de payer un client. Je suis encore en train de la développer en utilisant les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker**.
 Voici quelques images de l'application :
 
-[IMAGES]
+![Alt text](images/p3_1.png?raw=true "")
+![Alt text](images/p3_2.png?raw=true "")
+![Alt text](images/p3_3.png?raw=true "")
+![Alt text](images/p3_4.png?raw=true "")
+![Alt text](images/p3_5.png?raw=true " ")
+![Alt text](images/p3_6.png?raw=true "")
+![Alt text](images/p3_7.png?raw=true "")
+![Alt text](images/p3_8.png?raw=true "")
+
 
 **Projet Freelance :** Un client m'a demandé de créer une application de discussion avec des fonctionnalités spécifiques telles que la gestion des niveaux de privilège des comptes. J'ai utilisé les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker** pour réaliser ce projet.
 
 Voici quelques images de l'application :
 
-[IMAGES]
+![Alt text](images/p4_1.png?raw=true "")
+![Alt text](images/p4_2.png?raw=true "")
+![Alt text](images/p4_3.png?raw=true "")
+![Alt text](images/p4_4.png?raw=true "")
+![Alt text](images/p4_5.png?raw=true " ")
 
 **Projet Professionnel [Stage]:** En tant que programmeur Front-End chez **Star Culture** !*[Donne un peu de détail sur l'entreprise, exemple : Une entreprise chinoise basée à Hong-Kong spécialisée dans la conception et la création d'application mobile]*, j'ai utilisé la technologie **Flutter** pour créer des designs pour des applications mobiles. J'ai participé à plusieurs projets de conception, travaillant en étroite collaboration avec les designers de l'entreprise. L'un des projets les plus importants sur lesquels j'ai travaillé était la création d'une application nécessitant de nombreuses animations et manipulations d'images 3D. J'ai également contribué à la création d'une bibliothèque de composants Flutter réutilisable pour les projets futurs, ce qui a permis de gagner du temps et de réduire le temps de production. Enfin, j'ai également participé à des activités de formation pour les autres membres de l'équipe, notamment en donnant des cours sur l'utilisation de Flutter pour la création de designs.
 
 Ce stage chez **Star Culture** a été très enrichissant pour moi. J'ai approfondi mes connaissances de la technologie Flutter pour la création de designs pour des applications mobiles. J'ai également pu découvrir les différentes étapes de la création d'une application dans une entreprise, de la conception à la mise en production. Enfin, j'ai également pu découvrir le travail en équipe et les différents métiers qui entrent en jeu dans la création d'une application mobile.
 Voici quelques images de l'application :
 
-[IMAGES]
+![Alt text](images/p5_1.png?raw=true "")
+![Alt text](images/p5_2.png?raw=true "")
+![Alt text](images/p5_3.png?raw=true "")
+![Alt text](images/p5_4.png?raw=true "")
+![Alt text](images/p5_5.png?raw=true " ")
+![Alt text](images/p5_6.png?raw=true "")
+![Alt text](images/p5_7.png?raw=true "")
+![Alt text](images/p5_8.png?raw=true "")
+![Alt text](images/p5_9.png?raw=true "")
+![Alt text](images/p5_10.png?raw=true "")
+![Alt text](images/p5_11.png?raw=true "")
+![Alt text](images/p5_12.png?raw=true "")
+![Alt text](images/p5_13.png?raw=true "")
