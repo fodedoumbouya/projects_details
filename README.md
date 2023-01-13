@@ -49,7 +49,8 @@ Voici quelques images de l'application :
 ![Alt text](images/p2_7.png?raw=true "")
 
 
-**Projet Personnel 4 :** J'ai créé une application de chat similaire à **WhatsApp**, mais avec la possibilité d'envoyer de l'argent ou de payer un client. Je suis encore en train de la développer en utilisant les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker**.
+# **Projet Personnel 4 :**
+ J'ai créé une application de chat similaire à **WhatsApp**, mais avec la possibilité d'envoyer de l'argent ou de payer un client. Je suis encore en train de la développer en utilisant les technologies **Dart & Flutter**, **Golang**, **gRPC**, **Protobuffer**, **MySQL** et **Docker**.
 Voici quelques images de l'application :
 
 ![Alt text](images/p3_1.png?raw=true "")
